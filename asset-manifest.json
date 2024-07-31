@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/simple-routing-app/static/css/main.f855e6bc.css",
-    "main.js": "/simple-routing-app/static/js/main.69c5fbba.js",
+    "main.js": "/simple-routing-app/static/js/main.4b316e76.js",
     "static/js/453.ed0ed675.chunk.js": "/simple-routing-app/static/js/453.ed0ed675.chunk.js",
     "index.html": "/simple-routing-app/index.html",
     "main.f855e6bc.css.map": "/simple-routing-app/static/css/main.f855e6bc.css.map",
-    "main.69c5fbba.js.map": "/simple-routing-app/static/js/main.69c5fbba.js.map",
+    "main.4b316e76.js.map": "/simple-routing-app/static/js/main.4b316e76.js.map",
     "453.ed0ed675.chunk.js.map": "/simple-routing-app/static/js/453.ed0ed675.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.69c5fbba.js"
+    "static/js/main.4b316e76.js"
   ]
 }
